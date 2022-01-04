@@ -1,5 +1,5 @@
 # Crop yield Prediction with Deep Learning
-The necessary code for our paper, [Deep Gaussian Process for Crop Yield Prediction Based on Remote Sensing Data](http://jiaxuanyou.me/files/Jiaxuan_AAAI17.pdf), AAAI 2017 (Best Student Paper Award in Computational Sustainability Track). We are glad to win the "Best Big Data Solution" in [World Bank Big Data Innovation Chanllenge](http://bigdatainnovationchallenge.org/) as well. 
+The necessary code for crop yield prediction part.
 
 Here is a brief introduction on the utilities for each folder.
 
@@ -10,6 +10,5 @@ Here is a brief introduction on the utilities for each folder.
 - **"/5 model_semi_supervised"** A recent contribution, extending the model with semi-supervised deep generative model, however it doesn't work well.  We are happy to discuss the model if you can make it work.
 - **"/6 result_analysis"** Plot results, plot yield map, etc.
 
-For more information, please contact Jiaxuan You.
-
-youjiaxuan@gmail.com.
+For more information, please contact Zijia Wang
+Zijia_Wang@Dell.com
